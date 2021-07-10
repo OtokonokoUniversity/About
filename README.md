@@ -9,7 +9,7 @@ We want to train students to become Otokonoko to realise their own value.
 
 ## How to apply Otokonoko University
 
-To apply Otokonoko University, you needn't any examination scores. What you need do is just open an [issue](issues) on this repository and say that you want to join Otokonoko University.
+To apply Otokonoko University, you needn't any examination scores. What you need do is just open an [issue](https://github.com/OtokonokoUniversity/About/issues) on this repository and say that you want to join Otokonoko University.
 
 If your application is accepted, you will receive an offer email with an invitation link. Alternatively, you can try [this link](https://github.com/orgs/OtokonokoUniversity/invitation?via_email=1). If neither work for you, please contact us directly.
 
