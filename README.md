@@ -1,6 +1,6 @@
 # Otokonoko University
 
-**English** | [简体中文](README_chs.md) | [繁体中文](README_cht.md)
+**English** | [简体中文](README-chs.md) | [繁体中文](README-cht.md)
 
 ## About
 
