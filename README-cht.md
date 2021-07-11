@@ -1,20 +1,20 @@
 # Otokonoko University
 
-[English](README.md) | [简体中文](README-chs.md) | **繁体中文**
+[English](README.md) | [简体中文](README-chs.md) | **繁體中文**
 
-## 关于
+## 關於
 
-女装大学（Otokonoko University），又称 女装学园 ，是一所位于日本东京都新宿区神楽坂的虚拟全球 Otokonoko 科目大学。
-我们希望培养学生成为 Otokonoko 以实现其自身价值。
+女裝大學（Otokonoko University），又稱 女裝學園 ，是一所位於日本東京都新宿區神楽坂的虛擬全球 Otokonoko 科目大學。
+我們希望培養學生成為 Otokonoko 以實現其自身價值。
 
-## 如何申请加入女装大学
+## 如何申請加入女裝大學
 
-申请成为女装大学的一员，您不需要任何考试成绩，您需要做的只是在此存储库 (repository) 打开一个 [issue](https://github.com/OtokonokoUniversity/About/issues) 并且阐述您想要加入 Otokonoko 大学。
+申請成為女裝大學的一員，您不需要任何考試成績，您需要做的只是在此儲存庫 (repository) 開啟一個 [issue](https://github.com/OtokonokoUniversity/About/issues) 並且闡述您想要加入 Otokonoko 大學。
 
-在接受您的申请后，一封邀请信会发送至您与 GitHub 相关联的邮箱内。如果您没有收到任何邮件，但是您的申请已被批准，尝试点击 [这个链接](https://github.com/orgs/OtokonokoUniversity/invitation?via_email=1)。通常地，它会工作。如果它没有，请与我们直接取得联系。
+在接受您的申請後，一封邀請信會發送至您與 GitHub 相關聯的郵箱內。如果您沒有收到任何郵件，但是您的申請已被批准，嘗試點選 [這個連結](https://github.com/orgs/OtokonokoUniversity/invitation?via_email=1)。通常地，它會工作。如果它沒有，請與我們直接取得聯絡。
 
-# 邮箱
+# 郵箱
 
-校友邮箱：暂时没有。
+校友郵箱：暫時沒有。
 
-教育邮箱：未来也没有。
+教育郵箱：未來也沒有。
